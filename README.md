@@ -21,6 +21,7 @@ speech tools and games with procedural audio.
 
 | Project | What it is |
 |---|---|
+| [AutoTrim Exporter](https://github.com/Szunias/autotrim-exporter-releases) | Professional sound-design export workflow for REAPER with adaptive trimming, Preflight, loudness QC and safe delivery |
 | [Mówik](https://github.com/Szunias/Mowik) | Local push-to-talk dictation for Windows powered by Whisper, fully offline |
 | [AudioQ](https://github.com/Szunias/AudioQ) | VST3 audio plugin with real-time effects and granular synthesis, built with JUCE |
 | [BeatBox DAW](https://github.com/Szunias/beatbox-daw) | DAW with real-time beatbox-to-MIDI conversion powered by machine learning |
